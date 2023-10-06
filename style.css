@@ -1,0 +1,33 @@
+.header-main{
+    background-color:rgb(89, 110, 225);
+    width: auto;
+    height: auto;
+    top: 50%;
+    left: 50%;
+}
+
+.btn-nav{
+    background-color :rgba(255, 255, 255, 0);
+    margin: 3%;
+    border: 0px;
+    padding: 10px;
+}
+
+.main-write{
+    margin: 0px;
+}
+
+.gamebutton{
+    width: 75px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 0px;
+    margin-top: 15px;
+    margin-right: 5px;
+}
+
+html{
+    font-family: 'Arimo', sans-serif;
+    font-family: 'Caveat', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lexend', sans-serif;
+}

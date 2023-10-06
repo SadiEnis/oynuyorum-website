@@ -1,0 +1,6 @@
+Proje: OynuYorum
+Gereksinimler: Anasayfa - her oyun için ayrı sayfa - yeni yazı kayıt sayfası(ileri zamanda)
+
+Analiz: 
+
+Tasarım: Anasayfa içinde oyunlar ve resimleri olacak( her oyun resmi animasyonlu olmalı) - Oyun sayfalarında adı ve hiyerarşik konuları ayarlı olmalı - Anlaşılır bir dille yazılan yazılar okunaklı fontlara sahip olmalı
